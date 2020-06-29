@@ -13,18 +13,14 @@ There are two ways to do so :
  
  Here is a list of plugins that can be added to your jisti meet we interface;
  
- ### Jitsi party button
- 
- This plugin allows you to add a 'party poppers' to your jitsi interface.
+ - [Jitsi party button](https://gum.co/LnVyo) :
+ > This plugin allows you to add a 'party poppers' to your jitsi interface.
  People can use it as a quick way to share their hapiness.
- Available on https://gum.co/LnVyo
  
- ### Jitsi Timer
- 
- This plugin allows the conference moderator to start a timer that will be visible to all participant.
+ - [Jitsi Timer](https://gum.co/CBOoh) :
+ > This plugin allows the conference moderator to start a timer that will be visible to all participant.
  This is a good way to timebox discussions
  
- Available on https://gum.co/CBOoh
  
  ## Prosody plugins
  
