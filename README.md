@@ -1,5 +1,5 @@
 # jitsi-plugins
-A list of jitsi plugins to install on private server
+A collection of jitsi plugins to customize your private jitis instance
 
 ## Jitsi-meet plugins
 
